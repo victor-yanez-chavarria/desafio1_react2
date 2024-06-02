@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:"https://klauditha.github.io/desafio1_react2_HappyCake/",
+  base:"https://github.com/victor-yanez-chavarria/desafio1_react2/",
   plugins: [react()],
 })
